@@ -1,4 +1,5 @@
 import React from "react";
+import "./index.sass";
 import SpaceShooter from "./SpaceShooter";
 
 function App() {
